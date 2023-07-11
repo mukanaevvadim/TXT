@@ -1,0 +1,7 @@
+- Terminal;
+- Github;
+- Postman;
+- Jmeter;
+- SQL;
+- Mobile testing;
+- Bag Reports.
