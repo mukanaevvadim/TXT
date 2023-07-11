@@ -1,0 +1,7 @@
+-last name: Mukanaev;
+-fist name: Vadim;
+-father name: Il'nurovich;
+-age: 28;
+-number of pets: 1;
+-name pets: Fibs;
+-future salary: 1000$-1500$.
